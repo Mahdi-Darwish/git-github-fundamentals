@@ -15,6 +15,7 @@ d={'cat':4,'bird':2,'snake':0}
 for animals,legs in d.items():
     print(f"The {animals} has {legs} legs")
 
+#evensquare function to test the number entered by the user if its an even result or odd.
     def evensquares():
         x=(int(input('Enter a number:')))
         if x **2 %2 ==0:
