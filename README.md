@@ -12,5 +12,5 @@ A learning project focused on practicing core Git and GitHub workflows.
 
 1. Create a virtual environment: `python3 -m venv venv`
 2. Activate it: `source venv/bin/activate` (Mac/Linux) or `venv\Scripts\activate` (Windows)
-3. Optional: Install a python library for example: `pip3 install numpy` or any other library
+3. (Optional): Install a python library for example: `pip3 install numpy` or any other library
 4. Run the project: `python3 main.py`
